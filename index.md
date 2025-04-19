@@ -47,3 +47,14 @@ I’m a Data Analyst & Python Developer specializing in building scalable data
   **Technologies:** Python (Selenium), Automation
 
 </details>
+
+---
+
+## Skills
+
+- **Data Science & Analytics:** Python (pandas, NumPy), SQL (MySQL, PostgreSQL), PySpark, Machine Learning, Statistical Analysis  
+- **Programming Languages:** Python, Java, C  
+- **Frameworks & Libraries:** Django, Matplotlib, Selenium  
+- **Cloud & DevOps:** Docker, CI/CD (Blue Ocean, GitHub Actions)  
+- **Data Visualization & BI Tools:** Power BI, Google Looker
+
