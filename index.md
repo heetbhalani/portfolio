@@ -71,4 +71,10 @@ I’m a Data Analyst & Python Developer specializing in building scalable data
 - **M.Sc. in Quantitative & Big Data Analytics**, Trent University — 2023 – 2024 (GPA: 86.71)  
 - **B.E. in Computer Engineering**, Gujarat Technological University — 2019 – 2023 (CGPA: 8.66)  
 
+---
 
+## Contact
+
+I’m always open to new opportunities and collaborations. Feel free to reach out:
+
+[📧 Email Me](mailto:heetbhalani9033@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/heet-bhalani-8131b5227/) · [🐱 GitHub](https://github.com/heetbhalani)
