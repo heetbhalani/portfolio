@@ -58,3 +58,27 @@ I’m a Data Analyst & Python Developer specializing in building scalable data
 - **Cloud & DevOps:** Docker, CI/CD (Blue Ocean, GitHub Actions)  
 - **Data Visualization & BI Tools:** Power BI, Google Looker
 
+---
+
+## Experience
+
+- **Python Developer (Internship & Job)** — Jan 2023 – Aug 2023  
+  Developed Python applications and automated workflows; gained expertise in Docker, Blue Ocean CI/CD, PyQt, and collaborated with global stakeholders to deliver data‑driven solutions.
+
+- **Printify for Sellers (Internship Project)** — Feb 2023 – Jul 2023  
+  Built a PyQt6 desktop app with a Django REST backend, enabling Meesho sellers to securely download and print orders. Deployed via Docker—saving ~30 minutes per seller each day.
+
+- **Desktop Automation Tool** — Aug 2022 – Nov 2022  
+  Engineered a Python-based automation solution for small‑business billing, reducing manual entry by 20%.
+
+- **Web Scraping & Data ETL** — Jan 2021 – Mar 2021  
+  Extracted 66,000+ records using Selenium and BeautifulSoup, designing ETL pipelines to feed predictive models and reporting dashboards.
+
+---
+
+## Education
+
+- **M.Sc. in Quantitative & Big Data Analytics**, Trent University — 2023 – 2024 (GPA: 86.71)  
+- **B.E. in Computer Engineering**, Gujarat Technological University — 2019 – 2023 (CGPA: 8.66)  
+
+
